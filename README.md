@@ -1,5 +1,5 @@
 
-# a fireCNC Project - LinuxCNC Expandsion Module
+# a fireCNC Project - LinuxCNC Expansion Module
 
 **QtDragon CNC extension for LinuxCNC**
 
