@@ -5,7 +5,7 @@
 
  - EtherCAT LC10E support
  - Safe auto-tuning
- - Multi-drive / gantry ready
+ - Multi-drive / Drive Groups for gantry
  - Tool + ATC framework
  - Editable UI styles
  - Teach mode & macro system
