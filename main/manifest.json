@@ -1,53 +1,37 @@
 {
-    "fireCNC_version": "1.2.0",
-    "files": {
-        "VERSION": {
-            "version": "1.2.0",
-            "hash": "62abc69fd3fad42d4dadca97c5d57105"
-        },
-        "README.md": {
-            "version": "1.2.0",
-            "hash": "362560efa5abe8ca49cac35f94c31849"
-        },
-        "CHANGELOG.md": {
-            "version": "1.2.0",
-            "hash": "8a90d4f964b4566592d40b8514132b15"
-        },
-        "MANIFEST.json": {
-            "version": "1.2.0",
-            "hash": "99914b932bd37a50b983c5e7c90ae93b"
-        },
-        "ethercat\/pdo_maps\/lc10e.yaml": {
-            "version": "1.2.0",
-            "hash": "9815d3d0bc511793cd29f64ca9ebfb9e"
-        },
-        "ethercat\/sdo_profiles\/lc10e_safe_autotune.yaml": {
-            "version": "1.2.0",
-            "hash": "1f64fbaba5d81ff9f560da3f129d4474"
-        },
-        "hal\/ethercat_lc10e.hal": {
-            "version": "1.2.0",
-            "hash": "6f5313170ff4dc2221265b09bf735d89"
-        },
-        "macros\/initial_setup.ngc": {
-            "version": "1.2.0",
-            "hash": "540cdf2a0f1598a92f40de3103bc696b"
-        },
-        "src\/model\/autotune\/LC10EAutoTuneModel.py": {
-            "version": "1.2.0",
-            "hash": "49e3a3abba1ca737939caad674bfbeb0"
-        },
-        "src\/i18n\/en.json": {
-            "version": "1.2.0",
-            "hash": "99f720f8daa425b6989f41a80434e17f"
-        },
-        "styles\/colors.qml": {
-            "version": "1.2.0",
-            "hash": "37694a146182edcfc2eb5e139b192d38"
-        },
-        "db\/firecnc.db": {
-            "version": "1.2.0",
-            "hash": "3511a380e06ff5207e8799fe6f7bb1a2"
-        }
+  "project": "fireCNC",
+  "version": "1.2.0",
+  "generated": "2026-01-05T00:00:00Z",
+  "files": [
+    {
+      "path": "ui/GCodeCommentTranslator.py",
+      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/ui/GCodeCommentTranslator.py",
+      "sha256": "REPLACE_WITH_SHA256"
+    },
+    {
+      "path": "macros/teach_timeline.json",
+      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/macros/teach_timeline.json",
+      "sha256": "REPLACE_WITH_SHA256"
+    },
+    {
+      "path": "atc/pickup_1.ngc",
+      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/atc/pickup_1.ngc",
+      "sha256": "REPLACE_WITH_SHA256"
+    },
+    {
+      "path": "atc/return_1.ngc",
+      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/atc/return_1.ngc",
+      "sha256": "REPLACE_WITH_SHA256"
+    },
+    {
+      "path": "hal/ethercat_lc10e.hal",
+      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/hal/ethercat_lc10e.hal",
+      "sha256": "REPLACE_WITH_SHA256"
+    },
+    {
+      "path": "config/colors.qml",
+      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/config/colors.qml",
+      "sha256": "REPLACE_WITH_SHA256"
     }
+  ]
 }
