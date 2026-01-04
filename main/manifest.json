@@ -1,37 +1,37 @@
 {
   "project": "fireCNC",
-  "version": "1.2.0",
-  "generated": "2026-01-05T00:00:00Z",
+  "version": "1.2.1",
+  "generated": "2026-01-05T12:00:00Z",
   "files": [
     {
       "path": "ui/GCodeCommentTranslator.py",
-      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/ui/GCodeCommentTranslator.py",
-      "sha256": "REPLACE_WITH_SHA256"
+      "url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/ui/GCodeCommentTranslator.py",
+      "sha256": ""
     },
     {
       "path": "macros/teach_timeline.json",
-      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/macros/teach_timeline.json",
-      "sha256": "REPLACE_WITH_SHA256"
+      "url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/macros/teach_timeline.json",
+      "sha256": ""
     },
     {
       "path": "atc/pickup_1.ngc",
-      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/atc/pickup_1.ngc",
-      "sha256": "REPLACE_WITH_SHA256"
+      "url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/atc/pickup_1.ngc",
+      "sha256": ""
     },
     {
       "path": "atc/return_1.ngc",
-      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/atc/return_1.ngc",
-      "sha256": "REPLACE_WITH_SHA256"
+      "url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/atc/return_1.ngc",
+      "sha256": ""
     },
     {
       "path": "hal/ethercat_lc10e.hal",
-      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/hal/ethercat_lc10e.hal",
-      "sha256": "REPLACE_WITH_SHA256"
+      "url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/hal/ethercat_lc10e.hal",
+      "sha256": ""
     },
     {
       "path": "config/colors.qml",
-      "raw_url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/config/colors.qml",
-      "sha256": "REPLACE_WITH_SHA256"
+      "url": "https://raw.githubusercontent.com/kiwiscanwifi/fireCNC-QTDragon/main/main/config/colors.qml",
+      "sha256": ""
     }
   ]
 }
