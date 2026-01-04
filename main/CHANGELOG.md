@@ -1,0 +1,1 @@
+v1.2.0 - Initial full install with all features.
