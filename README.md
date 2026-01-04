@@ -1,2 +1,2 @@
-# LinuxCNC-Custom-UI-
-add custom features to LinuxCNC - Teach Mode / Servo Auto Tune
+# a fireCNC Project - LinuxCNC Expandsion Module
+add custom features Teach Mode / Servo Auto Tune
