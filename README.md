@@ -11,7 +11,7 @@
  - Teach mode & macro system
 
 
-
+**Visual Map of the folder/file structure**
 
 | Folder/File     | Purpose / Why It Exists                                                                                             |
 | --------------- | ------------------------------------------------------------------------------------------------------------------- |
